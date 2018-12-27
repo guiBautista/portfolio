@@ -2,7 +2,7 @@
 <!-- ******HEADER****** --> 
 <header class="header">
     <div class="container clearfix">                       
-        <img class="profile-image img-fluid float-left" src="assets/images/profile.png" alt="James Lee" />
+        <img class="profile-image img-fluid float-left" src="<?php echo get_template_directory_uri(); ?>/assets/images/profile.png" alt="James Lee" />
         <div class="profile-content float-left">
             <h1 class="name">James Lee</h1>
             <h2 class="desc">Web App Developer</h2>   
@@ -42,7 +42,7 @@
                             <p class="summary">A popular Bootstrap 4 theme for promoting startup products</p>
                             <div class="featured-image has-ribbon">
                                 <a href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/velocity-bootstrap-theme-for-startup-products/" target="_blank">
-                                <img class="img-fluid project-image" src="assets/images/projects/project-featured.png" alt="project name" />
+                                <img class="img-fluid project-image" src="<?php echo get_template_directory_uri(); ?>/assets/images/projects/project-featured.png" alt="project name" />
                                 </a>
                                 <div class="ribbon">
                                     <div class="text">New</div>
@@ -57,7 +57,7 @@
                         <hr class="divider" />
                         <div class="item row">
                             <a class="col-md-4 col-12" href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/instance-bootstrap-portfolio-theme-for-developers/" target="_blank">
-                            <img class="img-fluid project-image" src="assets/images/projects/project-1.png" alt="project name" />
+                            <img class="img-fluid project-image" src="<?php echo get_template_directory_uri(); ?>/assets/images/projects/project-1.png" alt="project name" />
                             </a>
                             <div class="desc col-md-8 col-12">
                                 <h3 class="title"><a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/instance-bootstrap-portfolio-theme-for-developers/" target="_blank">Instance - Bootstrap 4 Portfolio Theme for Aspiring Full Stack Developers</a></h3>
@@ -68,7 +68,7 @@
                         
                         <div class="item row">
                             <a class="col-md-4 col-12" href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devstudio-bootstrap-theme-for-web-development-agencies-and-developers/" target="_blank">
-                            <img class="img-fluid project-image" src="assets/images/projects/project-2.png" alt="project name" />
+                            <img class="img-fluid project-image" src="<?php echo get_template_directory_uri(); ?>/assets/images/projects/project-2.png" alt="project name" />
                             </a>
                             <div class="desc col-md-8 col-12">
                                 <h3 class="title"><a href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devstudio-bootstrap-theme-for-web-development-agencies-and-developers/" target="_blank">DevStudio - Bootstrap 4 Theme for WebDev Agencies and Freelance Developers</a></h3>
@@ -79,7 +79,7 @@
                         
                             <div class="item row">
                             <a class="col-md-4 col-12" href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/startupkit-bootstrap-theme-for-saas-startups/" target="_blank">
-                            <img class="img-fluid project-image" src="assets/images/projects/project-3.png" alt="project name" />
+                            <img class="img-fluid project-image" src="<?php echo get_template_directory_uri(); ?>/assets/images/projects/project-3.png" alt="project name" />
                             </a>
                             <div class="desc col-md-8 col-12">
                                 <h3 class="title"><a href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/startupkit-bootstrap-theme-for-saas-startups/" target="_blank">Startup Kit - Bootstrap 4 Theme for SaaS Startups</a></h3>
@@ -90,7 +90,7 @@
                         
                         <div class="item row">
                             <a class="col-md-4 col-12" href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/tempo-bootstrap-theme-for-startups/" target="_blank">
-                            <img class="img-fluid project-image" src="assets/images/projects/project-4.png" alt="project name" />
+                            <img class="img-fluid project-image" src="<?php echo get_template_directory_uri(); ?>/assets/images/projects/project-4.png" alt="project name" />
                             </a>
                             <div class="desc col-md-8 col-12">
                                 <h3 class="title"><a href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/tempo-bootstrap-theme-for-startups/" target="_blank">Tempo - Bootstrap 4 Theme for Startups</a></h3>
@@ -100,7 +100,7 @@
                         </div><!--//item-->                            
                         <div class="item row">
                             <a class="col-md-4 col-12" href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/delta-bootstrap-theme-for-mobile-apps/" target="_blank">
-                            <img class="img-fluid project-image" src="assets/images/projects/project-5.png" alt="project name" />
+                            <img class="img-fluid project-image" src="<?php echo get_template_directory_uri(); ?>/assets/images/projects/project-5.png" alt="project name" />
                             </a>
                             <div class="desc col-md-8 col-12">
                                 <h3 class="title"><a href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/delta-bootstrap-theme-for-mobile-apps/" target="_blank">Delta - Bootstrap 4 Theme for Promoting Mobile Apps</a></h3>
