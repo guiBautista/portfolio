@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-01-28 03:03:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Insert %s"
+msgstr "Inserir %s"
+
+msgid "Add %s"
+msgstr "Adicionar %s"
+
+msgid "Edit %s"
+msgstr "Editar %s"
+
+msgid "View %s"
+msgstr "Visualizar %s"
+
+msgid "Search %s"
+msgstr "Buscar %s"
+
+msgid "Parent %s"
+msgstr "%s Pai"
+
+msgid "Parent %s:"
+msgstr "%s Pai:"
+
+msgid "Update %s"
+msgstr "Atualizar %s"
+
+msgid "New %s Name"
+msgstr "%s - Novo Nome"
+
+msgid "All %s"
+msgstr "%s"
+
+msgid "Popular %s"
+msgstr "%s Populares"
+
+msgid "Separate %s with commas"
+msgstr "Separe %s com vírgulas"
+
+msgid "Add or remove %s"
+msgstr "Adicionar ou remover %s"
+
+msgid "Choose from the most used %s"
+msgstr "Escolha entre %s mais populares"
+
+msgid "No %s found"
+msgstr "Nada encontrado entre %s"
+
+msgid "Nothing found"
+msgstr "Nada encontrado"
+
+msgid "Nothing found in trash"
+msgstr "Nada encontrado na lixeira"
+
+msgid "Smart Custom Fields"
+msgstr "Campos Personalizados"
+
+msgid "Theme Options"
+msgstr "Opções do Tema"
+
+msgid "Options successfully saved."
+msgstr "Opções salvas com sucesso."
+
+msgid "Wait..."
+msgstr "Aguarde..."
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Do you want to detach this image?"
+msgstr "Deseja desanexar esta imagem?"
+
+msgid "Do you want to detach these images?"
+msgstr "Deseja desanexar estas imagens?"
+
+msgid "Image"
+msgstr "Imagem"
+
+msgid "Images"
+msgstr "Imagens"
+
+msgid "Insert"
+msgstr "Inserir"
+
+msgid "Select image"
+msgstr "Selecionar imagem"
+
+msgid "Select images"
+msgstr "Selecionar imagens"
+
+msgid "Do you want to detach this file?"
+msgstr "Deseja desanexar este arquivo?"
+
+msgid "Do you want to detach these files?"
+msgstr "Deseja desanexar estes arquivos?"
+
+msgid "File"
+msgstr "Arquivo"
+
+msgid "Files"
+msgstr "Arquivos"
+
+msgid "Select file"
+msgstr "Selecionar arquivo"
+
+msgid "Select files"
+msgstr "Selecionar arquivos"
+
+msgid "Search"
+msgstr "Pesquisar"
+
+msgid "Insert Link"
+msgstr "Inserir Link"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "\"Smart Things\" plugin depends on <a href=\"%s\" class=\"thickbox\">\"Taxonomy Metadata\"</a> plugin's funcionalities to extend default taxonomies' info. We recommend <a href=\"%s\">installing it.</a>"
+msgstr "O plugin \"Smart Things\" depende das funcionalidades do plugin <a href=\"%s\" class=\"thickbox\">\"Taxonomy Metadata\"</a> para expandir as informações padrão das taxonomias. Nós recomendamos <a href=\"%s\">sua instalação.</a>"
+
+msgid "add"
+msgstr "adicionar"
+
+msgid "del"
+msgstr "remover"
+
+msgid "Select"
+msgstr "Selecionar"
+
+msgid "Clean gallery"
+msgstr "Limpar galeria"
+
+msgid "Clean gallery?"
+msgstr "Limpar galeria?"
+
+msgid "Undefined"
+msgstr "Não definido"
+
+msgid "Expand data"
+msgstr "Expandir dados"
+
+msgid "Collapse"
+msgstr "Recolher"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Remove image"
+msgstr "Remover imagem"
+
+msgid "Are you sure?"
+msgstr "Você tem certeza?"
+
+msgid "WARNING: changes made here are reflected anywhere the same image is used!"
+msgstr "ATENÇÃO: as mudanças realizadas aqui se refletem em qualquer outro lugar onde a mesma imagem seja utilizada!"
+
+msgid "(None)"
+msgstr "(Nenhum)"
+
